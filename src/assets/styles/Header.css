@@ -1,0 +1,10 @@
+header {
+    border: 1px solid blueviolet;
+    border-radius: 30px;
+    background-color: blueviolet;
+}
+header h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+}
